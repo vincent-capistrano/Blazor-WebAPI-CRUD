@@ -1,10 +1,10 @@
 First simple CRUD project using blazor and web API
 <br>
--blazor
+-Blazor C#
 <br>
--webapi
+-WebApi
 <br>
--sqlserver local
+-SQLServer Local
 <br>
--entity framework
+-Entity Framework
 
