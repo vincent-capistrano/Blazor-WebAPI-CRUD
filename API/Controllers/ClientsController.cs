@@ -100,13 +100,13 @@ namespace API.Controllers
         {
             var client = context.Clients.Find(id);
             if (client == null) {
-            return NotFound();
+            return NotFound();// cant find id for deletion 
             }
 
             context.Clients.Remove(client);
             context.SaveChanges();
 
-            return Ok(client);
+            return Ok(client); // id found return ok
         }
 
     }
