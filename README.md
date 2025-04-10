@@ -1,10 +1,3 @@
 Simple CRUD project using blazor and web API</b>
 <br>
--Blazor C#
-<br>
--WebApi
-<br>
--SQLServer Local
-<br>
--Entity Framework
-
+A simple CRUD application built with Blazor and ASP.NET Web API.
