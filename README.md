@@ -1,4 +1,4 @@
-<b>First simple CRUD project using blazor and web API</b>
+Simple CRUD project using blazor and web API</b>
 <br>
 -Blazor C#
 <br>
